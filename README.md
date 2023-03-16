@@ -7,7 +7,7 @@
 | --- | --- |
 | 양신희 | [Github](https://github.com/ysheep0906) |
 | 곽윤철 | [Github](https://github.com/YunDo-Gi) |
-| 남우성 | |
+| 남우성 | [Github](https://github.com/WoosungNam) |
 
 ## ✍파일 양식
 - 파일 제목 20xx-xx-xx.md
